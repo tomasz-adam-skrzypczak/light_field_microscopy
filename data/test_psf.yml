@@ -1,0 +1,16 @@
+optics:
+  magnification : 39.6
+  NA : 1.0
+  ftl : 165.e-3
+  n : 1.33
+  wavelength : 600.e-9
+ml:
+  pitch : 125.e-6
+  fml : 2500.e-6
+psf:
+  vpix: 27
+  osr: 3
+  zmin : 9.e-6
+  zmax : 10.e-6
+  zspacing : 1.e-6
+  #added by myself
